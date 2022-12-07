@@ -1,0 +1,50 @@
+1-4 Modules:
+    Εισαγωγικά Modules στα οποία αναφέρεται τι θα μάθουμε, τι παραδείγματα θα δούμε και γιατί υπάρχει η JS
+
+Module 5:
+    How To Get The Most Out Of The Course
+    This course is very modular in that you can pick any section and just complete the specific project you are interested in. 
+    However, there are a few things we recommend if you want to make the most out of this course.
+
+    1. Make sure you watch the Developer Setup videos coming up next in order to make sure you can follow along. 
+    We highly recommend you code along with us and follow the customization options to make each project "your own". 
+    Feel free to share your projects in #lookwhatimade or #javascript channels on Discord and get feedback. 
+    Finally, we will be collecting a running list of custom student projects here. 
+    If you would like to add your own project to showcase them to the community, you can submit to be added! (See 3. on how to use Github)
+   
+    2. The projects get more and more interesting as you go in order.
+    We start off with some basic projects, and get into more and more complex projects.
+    So, we recommend going in order to make sure you don't miss anything as things get harder and harder.
+    
+    3. We provide a few Appendix sections for you if you want some extra help/advice to further your knowledge after the course:
+
+    A. How JavaScript Works - internal workings of JavaScript so you understand how JavaScript actually runs on a browser.
+
+    B. Git, Github, Open Source and Building a Portfolio - learn to use Git and Github, learn to contribute to open source, 
+    and how to build your own portfolio to showcase the projects you build in this course.
+
+    C. CORS Issues - Learn how to solve the dreaded CORS issues when using free APIs.
+
+Module 6-7:
+    Setting Up For The Course
+    All projects will be coded from scratch or provided a template.
+
+    You can find all finalized projects for the course right here.
+
+    You can find all starter templates for the course here (notice that there are only a few since some projects we don't use them)
+
+    Please keep these two links handy. We will tell you in each section how to get started and get to building the projects with the appropriate template :)
+
+    Since everyone taking the course has different level of experience, we wanted to make sure that it is useful and easy to follow along to as many of you as possible.
+    With that in mind we have provided this section to help get you set up! Some of these videos will be optional/not needed depending on your level of experience:
+
+        MAC/LINUX Setup --> Watch this videos if you do not have Visual Studio Code (or any text editor) and Git installed on your machine
+        WINDOWS Setup --> Watch this videos if you do not have Visual Studio Code (or any text editor) and Git installed on your machine
+
+If you do not have experience with Git and Github (it's not necessary for you to know these to complete the course, but they will help you be able to put your projects online),
+ we have provided an Appendix section for you at the bottom of the course to learn these.
+
+
+ 
+8. OPTIONAL: WINDOWS Setup
+    Install git for windows and Visual Studio
